@@ -72,6 +72,12 @@ Change the **STATUSBAR** environment variable and you are good to go.
 [Bolt](https://github.com/salman-abedin/bolt)
 : The lightning fast workflow creator
 
+[Uniblocks](https://github.com/salman-abedin/uniblocks)
+: The statusbar wrapper
+
+[puri](https://github.com/salman-abedin/puri)
+: Minimal URL launcher
+
 [Magpie](https://github.com/salman-abedin/magpie)
 : The dotfiles
 
@@ -80,9 +86,6 @@ Change the **STATUSBAR** environment variable and you are good to go.
 
 [Devour](https://github.com/salman-abedin/devour)
 : Terminal swallowing
-
-[Uniblocks](https://github.com/salman-abedin/uniblocks)
-: The statusbar wrapper
 
 ## Contact
 
